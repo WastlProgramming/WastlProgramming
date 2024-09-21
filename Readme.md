@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bastian👋
 
 ![Header Image](https://your-image-link.com) <!-- Replace with a banner or relevant image -->
 
