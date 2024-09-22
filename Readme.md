@@ -4,7 +4,6 @@
 
 I’m a passionate **Software Developer** at **Digital Rally**. Since September, I've been contributing to innovative software projects, working across multiple programming languages and frameworks. I hold a degree as a **Certified Business Informatics Specialist** / **Bachelor Professional in Business**, which provides me with a strong foundation in both technical and business aspects.
 
-<img align="right" alt="Coding Illustration" width="300" src="https://your-image-link.com">
 
 ## 🛠️ Languages & Technologies
 
@@ -23,10 +22,10 @@ I’m a passionate **Software Developer** at **Digital Rally**. Since September,
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="40" height="40"/></a>
-  <a href="https://vitest.dev/" target="_blank"><img src="[https://vitest.dev/favicon.svg](https://img.icons8.com/color/48/000000/vite.png) " alt="Vitest" width="40" height="40"/></a>
+  <a href="https://vitest.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vite.png " alt="Vitest" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://github.com/Ezcord" target="_blank"><img src="[https://github.com/Ezcord/ezcord/raw/main/.github/logo.png](https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000)" alt="Ezcord" width="40" height="40"/></a>
+  <a href="https://github.com/Ezcord" target="_blank"><img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="Ezcord" width="40" height="40"/></a>
 </p>
 
 ### Databases
@@ -43,8 +42,8 @@ Currently, I’m developing scalable and efficient software solutions that meet 
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: https://www.linkedin.com/in/bastian-bichler-3645b0299/
+- Email: bichlerbastian@gmail.com
 
 ---
 
